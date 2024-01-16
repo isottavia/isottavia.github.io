@@ -889,7 +889,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(38, 92, 35, 0.75), rgba(38, 92, 35, 0.75)), url("../img/cta-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(38, 92, 35, 0.65), rgba(38, 92, 35, 0.65)), url("../img/cta-bg.jpg") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
